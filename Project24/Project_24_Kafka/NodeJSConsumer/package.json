@@ -1,0 +1,16 @@
+{
+  "name": "hellokafka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "jrw@mit.edu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "jest": "^26.0.1",
+    "node-rdkafka": "^2.12.0"
+  }
+}
